@@ -1,4 +1,4 @@
-# Tellmewhy
+# Tell me why
 Workshop on AI, Topics: Explainable Artificial Intelligence, Black-Box Models, Ethics (Level: Intermediate)
 
 ## Building safe and robust models: Introduction to Explainability 
